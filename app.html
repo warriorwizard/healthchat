@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block content %}
+    <div class="container">
+        <h1>Chatbot</h1>
+        <div class="chat-window">
+            {% for message in messages %}
+                {% if message.type == 'bot' %}
+                    <div class="bot-message">{{ message.text }}</div>
+                {% else %}
+                    <div class="user-message">{{ message.text }}</div>
+                {% endif %}
+            {% endfor %}
+        </div>
+        <form id="message-form">
+            <input type="text" id="message-input" autocomplete="off" placeholder="Type your message...">
+            <button type="submit" class="btn">Send</button>
+        </form>
+    </div>
+    <script>
+        // JavaScript code for handling the chat window and sending messages
+    </script>
+{% endblock %}

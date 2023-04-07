@@ -1,0 +1,193 @@
+{"intents": [
+    {"tag": "greeting",
+     "patterns": ["Hi","Hello","Hi there", "How are you", "Is anyone there?","Hey","Hola", "Hello", "Good day"],
+     "responses": ["Hello Ma'am, thanks for asking", "Good to see you again", "Hi there, how can I help?"],
+     "context": [""]
+    },
+    {"tag": "goodbye",
+     "patterns": ["Bye", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time"],
+     "responses": ["See you!", "Have a nice day", "Bye! Come back again soon."],
+     "context": [""]
+    },
+    {"tag": "thanks",
+     "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+     "responses": ["Happy to help!", "Any time!", "My pleasure"],
+     "context": [""]
+    },
+    {"tag": "noanswer",
+     "patterns": [],
+     "responses": ["Sorry, can't understand you", "Please give me more info", "Not sure I understand"],
+     "context": [""]
+    },
+    {"tag": "options",
+     "patterns": ["How you could help me?", "What you can do?", "What help you provide?", "How you can be helpful?", "What support is offered"],
+     "responses": ["Hello Ma'am, I can guide you for your menstural pain, Periods", "I can guide for pain only for women", "Mood swings"],
+     "context": [""]
+    },
+    {"tag": "Menstural Pain",
+     "patterns": ["What might cause severe menstrual cramps?", "cause severe menstrual cramps", "What cause severe menstrual cramps?", "What can cause severe menstrual cramps?", "cause of menstrual cramps"],
+     "responses": ["Conditions such as endometriosis or uterine fibroids can cause severe menstrual cramps.","Menstrual cramps can be caused by:Endometriosis. Tissue that acts similar to the lining of the uterus grows outside of the uterus, most commonly on fallopian tubes, ovaries or the tissue lining your pelvis","Uterine fibroids. These noncancerous growths in the wall of the uterus can cause pain","Adenomyosis. The tissue that lines your uterus begins to grow into the muscular walls of the uterus","Pelvic inflammatory disease. This infection of the female reproductive organs is usually caused by sexually transmitted bacteria","Cervical stenosis. In some women, the opening of the cervix is small enough to impede menstrual flow, causing a painful increase of pressure within the uteru"],
+     "context": [""]
+    },
+    {"tag": "risk of menstrual cramps",
+     "patterns": ["risk of menstrual cramps", "what is risk of menstrual cramps", "risk of menstrual cramps" ],
+     "responses": ["There are certian precaution for these pain", "Please take some chocolates","meet doctor","I can suggest you some doctor in your areas"],
+     "context": [""]
+    },
+    {"tag": "mood swing",
+     "patterns": ["I want to know how menstural cycle works", "Blood pressure for patient", "Load patient blood pressure result", "Show blood pressure results for patient", "Find blood pressure results by ID" ],
+     "responses": ["n a girl, menstruation starts from the age of 10 to 15 when she attains puberty and this beginning is known as menarche. The ending of menstruation is known as menopause which takes place at the age range of 50.The first day of bleeding is marked as the first day of a menstrual cycle and the period from one menstrual cycle to another can vary from 28 to 30 days.", " Day 1, uterus lining which is prepared for implantation starts to shed which lasts 3 to 5 days"],
+     "context": ["search_blood_pressure_by_patient_id"]
+    },
+    {"tag": "Cure",
+     "patterns": ["how can i stop my back pain during my period","what's the suitable cure to go for when you are going through leg pain"],
+     "responses": ["Home remediesHeat. Using heating pads or hot water bottles can soothe the pain.Back massages. Rubbing the affected area can relieve the pain.Exercise. This could including gentle stretching, walking, or yoga.Sleep.Acupuncture.Avoiding alcohol, caffeine, and smoking"],
+     "context": [""]
+    },
+    {"tag": "Diet",
+     "patterns": ["Diet in periods","What should we eat in priods" ],
+     "responses": ["Thank you..................There are some Menstrual Diet.Diet plan for healthy and comfortable periods must include:1. Whole grains like whole wheat, oats and brown rice are a good choice.2. Low-fat milk, preferably, dahi, lassi are a must. Indigestion is a problem so taking milk as dahi will help by adding probiotics and the calcium will help with the cramps. Lassi will add to hydration.3. Healthy proteins from legumes, nuts, seeds, especially, flax and chia and salmon provide phytonutrients.4. Lots of vegetables, especially the green leafy ones add fiber and provide iron to make up for blood los,4. Lots of vegetables, especially the green leafy ones add fiber and provide iron to make up for blood loss.6. Healthy fats in limited quantities are essential. Avoiding fried foods to prevent aggravating indigestion"],
+     "context": [""]
+    },
+    {"tag": "what is period pain",
+     "patterns": ["what is period pain", "period pain", "menstural period pain"],
+     "responses": ["Period pain is pain that occurs just before or during a menstrual period.Every person’s experience of period pain is different, but it can cause: /n a cramping sensation in the abdomen /n burning pain in the abdomen pain that may feel like trapped gas pain that radiates to the back, hips, or legs.Some peopleTrusted Source also experience digestive symptoms alongside period pain, such as: /n bloating /n diarrhea /n constipation /n nausea /n vomiting","Some peopleTrusted Source also experience digestive symptoms alongside period pain, such as: /n bloating /n diarrhea /n constipation /n nausea /n vomiting","Period pain is pain that occurs just before or during a menstrual period.Every person’s experience of period pain is different, but it can cause: /n a cramping sensation in the abdomen /n burning pain in the abdomen pain that may feel like trapped gas pain that radiates to the back, hips, or legs.","Other symptoms associated with dysmenorrhea include irritability and headaches. Period pain and cramping can vary from mild to intense"],
+     "context": ["Types of period pain"]
+    },
+    {"tag": "types of period pain",
+     "patterns": ["types of period pain", "how may types of period pain", "what are the types of period pain","types of menstural pain"],
+     "responses": ["There are two types of period pain: primary and secondary /n please type primary or secondary"],
+     "context": ["type"]
+    },
+    {"tag": "primary period pain",
+     "patterns": ["primary period pain","primary dysmenorrhea","primary","first type of period pain"],
+     "responses": ["Primary dysmenorrhea occurs as a result of menstruation alone. This means another condition does not cause it. /n As a period begins, the body releases prostaglandins."," This triggers contractions in the uterus, prompting the womb lining to shed.","People with primary dysmenorrhea also often experience longer, heavier periods"," /n ertain risk factors may contribute to the condition, including: /n smokin /n stress /n anxiety or depression /n having excess weight /n trying to lose weight /n beginning periods at an early age /n never having been pregnant /n a family history of painful periods"],
+     "context": [""]
+    },
+    {"tag": "secondary period pain",
+     "patterns": ["second period pain","primary dysmenorrhea","secondary","second type of period pain"],
+     "responses": ["Secondary dysmenorrhea occurs as a result of another medical condition. Examples of conditions that can cause secondary dysmenorrhea."],
+     "context": [""]
+    },
+    {"tag": "How to get rid of period pain ",
+    "patterns": ["Ways for period pain relief", "how to reduce period pain", "reduce period pain"],
+    "responses": ["There are a number of approaches people can try to reduce period pain. Coping strategies can reduce current pain, while others may help reduce the likelihood of dysmenorrhea overall. /n Coping with period pain /n Some strategies that may help relieve period pain when it occurs include: /n nonsteroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen /n heat therapy, such as a heating pad, hot water bottle, or warm bath /n transcutaneous electrical nerve stimulation (TENS), which people can use at home, work, or school via portable TENS machines /n having an orgasm, either alone or with a partner /n gentle exercise /n acupuncture or acupressure"],
+    "context": ["search_pharmacy_by_name"]
+   },
+   {"tag": "What to know about menstrual cramps",
+    "patterns": ["What to know about menstrual cramps"],
+    "responses": ["Menstrual cramps are painful sensations that affect many people before and during a menstrual period","The pain, also known as dysmenorrhea or period pain, ranges from dull and bothersome to severe and extreme. Menstrual cramps tend to begin after ovulation, when the ovaries release an egg that travels down the fallopian tube","Pain can affect the lower abdomen and lower back. In about 10%Trusted Source of people who menstruate, the discomfort is severe enough to affect their daily life for 1–3 days each month.","Pain that only occurs with menstruation is known as primary dysmenorrhea. Secondary dysmenorrhea is period pain that stems from a medical problem, such as endometriosis, uterine fibroids, or pelvic inflammatory disease"],
+    "context": [""]
+   }, {"tag": "Symptoms",
+   "patterns": ["What are the symptoms of menstruation","what are the symptoms of period","symptoms"],
+   "responses": ["Menstrual cramps usually refer to a dull, throbbing, cramping pain in the lower abdomen, just above the pelvic bone. The pain can also spread to the lower back and thighs./n The pain may be accompanied by nausea, vomiting, diarrhea, and bloating. Some women also experience headaches, dizziness, and fatigue./n The pain /n may be mild or severe, and it may last for a few hours or several days. /n The pain may be accompanied by nausea, vomiting, diarrhea, and bloating. /n Some women also experience headaches, dizziness, and fatigue. /nThe pain may be mild or severe, and it may last for a few hours or several days."],
+   "context": [""]
+  },{"tag": "prevention",
+  "patterns": ["how to prevent from menstruation","how to prevent from periods"],
+  "responses": ["can also try certain lifestyle measures to reduce cramping. These include. /n exercising regularly /n trying to reduce stress — for example, practicing meditation, mindfulness, or yoga /n quitting smoking, if a smoker, or avoiding secondhand smoke /n YogaTrusted Source or acupunctureTrusted Source may help, but more research is necessary to confirm their benefits"],
+  "context": [""]
+ },
+    {"tag": "treatment",
+    "patterns": ["treatment for menstruation","treatment for periods"],
+    "responses": ["for treatment you can prefer home remedies & herbal remedies /n if you want to know more about home remedies & herbal remedies please type home remedies or herbal remedies"],
+  "context": [""]
+ },
+ {"tag": "home remedies",
+    "patterns": ["home remedies for menstruation","home remedies for periods"]
+},
+{"tag": "home remedies",
+    "patterns": ["home remedies for menstruation","home remedies for periods"],
+    "responses":["Some natural remediesTrusted Source that may provide relief are: /n applying a heat pad to the lower abdomen /n practicing relaxation and mindfulness techniques /n engaging in physical exercise, such as jogging or yoga /n taking a warm bath or shower /n having a massage /n using transcutaneous electrical nerve stimulation (TENS)"]
+    },
+    {"tag": "herbal remedies",
+    "patterns": ["herbal remedies for menstruation","herbal remedies for periods"],
+    "responses":["Various herbal teas and other herbal remedies may help manage symptoms, although research has not yet proven that they can help, Chamomile tea, Chinese herbal medicines, Pine bark, Fennel, Aromatherapy, Ginger"]},
+    {"tag": "herbal remedies",
+    "patterns": ["What is the best tea for menstrual cramps?","best tea for menstrual cramps","best tea for periods","best tea for menstruation","best tea for period pain"],
+    "responses":["There is insufficient evidence to conclude that any specific herbal tea can treat menstrual cramps. However, limited research suggests that consuming ginger and green teaTrusted Source may help treat symptoms."]},
+    {"tag": "herbal remedies",
+    "patterns": ["Can juices help with period cramps?","juices help with period cramps","Can juices help with period cramps","juices help with period cramps","juices help with period pain","juices help with menstruation","juices help with periods","juices help with menstrual cramps"],
+    "responses":["Eating more fruits and vegetables may help reduceTrusted Source a person’s menstrual cramps. However, there is insufficient evidence to determine whether drinking specific juices will help."]},
+    {"tag": "herbal remedies",
+    "patterns": ["Can vitamin D help with period cramps?","vitamin D help with period cramps","vitamin D help with period pain","vitamin D help with menstruation","vitamin D help with periods","vitamin D help with menstrual cramps"],
+    "responses":["There is insufficient evidence to determine whether vitamin D can help treat menstrual cramps. However, vitamin D may help reduceTrusted Source the risk of developing chronic pain conditions, such as fibromyalgia."]},
+    {"tag": "What can make period cramps worse?",
+    "patterns": ["What can make period cramps worse?","What can make period pain worse?","What can make menstruation worse?","What can make periods worse?","What can make menstrual cramps worse?"],
+    "responses":["Several factors and underlying conditions may increase a person’s risk of experiencing severe menstrual cramps, including: /n a family history of severe cramps /n being under 20 years of age /n having obesity /n endometriosi .n fibroids /n pelvic inflammatory disease /n adenomyosis /n low intake of omega-3 /n smoking /n stress"]},
+    {"tag": "symptoms that should not be ignored",
+    "patterns": ["symptoms that should not be ignored","symptoms that should not be ignored","risk sympotms","risk symptoms"],
+    "responses":["Heavy bleeding /n Spotting /n Skipped periods /n Breast tenderness /n Diarrhea /n Clotting /n Unusual consistency /n Cramps /n Migraine /n Irregular periods /n Significant mood changes /n Period not stopping"]},
+    {"tag": "When to see a doctor",
+    "patterns": ["When to see a doctor","When to see a doctor","When to see a doctor","When to see a doctor","When to see a doctor"],
+    "responses":["If any severe symptom occurs during a period, or if a period has any unusual features, it is a good idea to see a doctor./n A person should also see a healthcare provider about any of the followingTrusted Source:unusual vaginal discharge, a burning sensation while urinating, a fever, severe pain at any time"]},
+    {"tag": "hindi",
+     "patterns": ["namste","Namste","NAMSTE","Namaskar","namaskar"],
+     "responses": ["Namste,Please ask me question in english", "Namaskar ,Please ask me question in english", "namaskar ,Please ask me question in english", "namaste ,Please ask me question in english"],
+     "context": [""]
+    },
+    {"tag": "who",
+     "patterns": ["who are you","tell me about yourself","aap kaon hai","tum kaon ho","aap kya hai","tum kya ho"],
+     "responses":["I am a deeplearning model developed by Anand Gupta to help you with your queries related to menstruation. ","I am a chatbot developed by Anand Gupta to help you with your queries related to menstruation","I am a chatbot developed by Anand Gupta to help you with your queries related to menstruation","I am a chatbot developed by Anand Gupta to help you with your queries related to menstruation"],
+     "context":[""]
+},
+{"tag": "address",
+     "patterns": ["From where are you","where are you from","where do you live","where do you stay","where do you reside","where do you reside"],
+     "responses": ["I am a language model created by Anand Gupta. I don't have a physical location as I exist entirely in the digital world","As an artificial intelligence language model, I don't physically exist, so I don't live anywhere. I exist solely in computer servers and can be accessed through various platforms and interfaces, such as chatbots, voice assistants, and text editors.","I am from India","I am from India"],
+     "context": [""]
+    },
+    {
+    "tag": "age",
+    "patterns": ["how old are you","what is your age","what is your age","what is your age","what is your age"],
+    "responses": ["I am a language model created by Anand Gupta. I don't have a physical location as I exist entirely in the digital world","As an artificial intelligence language model, I don't physically exist, so I don't live anywhere. I exist solely in computer servers and can be accessed through various platforms and interfaces, such as chatbots, voice assistants, and text editors.","I am from India","I am from India"],
+    "context": [""]
+    },
+    {"tag":"flu",
+    "patterns":["flu","What is the flu?","define flu","what flu","flu kya hai","define flu?","flu kya hai?"],
+    "responses":["The flu is a contagious respiratory illness caused by influenza viruses that can cause mild to severe illness, and at times can lead to death. The best way to prevent the flu is by getting a flu vaccine each year.","The flu is a contagious respiratory illness caused by influenza viruses that can cause mild to severe illness, and at times can lead to death. The best way to prevent the flu is by getting a flu vaccine each year.","The flu is a contagious respiratory illness caused by influenza viruses that can cause mild to severe illness, and at times can lead to death. The best way to prevent the flu is by getting a flu vaccine each year.","The flu is a contagious respiratory illness caused by influenza viruses that can cause mild to severe illness, and at times can lead to death. The best way to prevent the flu is by getting a flu vaccine each year."],
+    "context":[""]
+    },
+    {"tag":"flu symptoms",
+    "patterns":["flu symptoms","What are the symptoms of flu?","define flu symptoms","what flu symptoms","flu symptoms kya hai"],
+    "responses":["Symptoms of the flu include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue","Symptoms of the flu include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue","Symptoms of the flu include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue","Symptoms of the flu include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue"],
+    "context":[""]
+    },
+    {"tag":"diabetes",
+    "patterns":["diabetes","What is diabetes?","define diabetes","what diabetes","diabetes kya hai","define diabetes?","diabetes kya hai?"],
+    "responses":["Diabetes is a disease in which your blood glucose, or blood sugar, levels are too high. Glucose comes from the foods you eat. Insulin is a hormone that helps the glucose get into your cells to give them energy. With diabetes, your body either doesn't make enough insulin or can't use its own insulin as well as it should. This causes too much glucose to build up in your blood.","Diabetes is a disease in which your blood glucose, or blood sugar, levels are too high. Glucose comes from the foods you eat. Insulin is a hormone that helps the glucose get into your cells to give them energy. With diabetes, your body either doesn't make enough insulin or can't use its own insulin as well as it should. This causes too much glucose to build up in your blood.","Diabetes is a disease in which your blood glucose, or blood sugar, levels are too high. Glucose comes from the foods you eat. Insulin is a hormone that helps the glucose get into your cells to give them energy. With diabetes, your body either doesn't make enough insulin or can't use its own insulin as well as it should. This causes too much glucose to build up in your blood.","Diabetes is a disease in which your blood glucose, or blood sugar, levels are too high. Glucose comes from the foods you eat. Insulin is a hormone that helps the glucose get into your cells to give them energy. With diabetes, your body either doesn't make enough insulin or can't use its own insulin as well as it should. This causes too much glucose to build up in your blood.","Diabetes is a condition in which your body is unable to properly regulate blood sugar levels, leading to high blood sugar. This can cause a number of symptoms, including increased thirst and urination, fatigue, and blurred vision. If left untreated, diabetes can lead to serious complications, including heart disease, stroke, and kidney failure."],
+    "context":[""]
+    },
+    {"tag":"diabetes symptoms",
+    "patterns":["diabetes symptoms","What are the symptoms of diabetes?","define diabetes symptoms","what diabetes symptoms","diabetes symptoms kya hai"],
+    "responses":["Symptoms of diabetes include increased thirst, frequent urination, fatigue, weight loss, and blurred vision. If left untreated, diabetes can lead to serious complications, including heart disease, stroke, and kidney failure.","Symptoms of diabetes include increased thirst, frequent urination, fatigue, weight loss, and blurred vision. If left untreated, diabetes can lead to serious complications, including heart disease, stroke, and kidney failure.","Symptoms of diabetes include increased thirst, frequent urination, fatigue, weight loss, and blurred vision. If left untreated, diabetes can lead to serious complications, including heart disease, stroke, and kidney failure.","Symptoms of diabetes include increased thirst, frequent urination, fatigue, weight loss, and blurred vision. If left untreated, diabetes can lead to serious complications, including heart disease, stroke, and kidney failure."],
+    "context":[""]
+    },
+    {"tag":"asthma",
+    "patterns":["asthma","What is asthma?","define asthma","what asthma","asthma kya hai","define asthma?","asthma kya hai?"],
+    "responses":[""],
+    "context":[""]
+    },
+    {"tag":"COPD",
+    "patterns":["COPD","What is COPD?","define COPD","what COPD","COPD kya hai","define COPD?","COPD kya hai?"],
+    "responses":["COPD stands for chronic obstructive pulmonary disease, which is a chronic respiratory condition that makes it difficult to breathe. It is usually caused by long-term exposure to irritants, such as cigarette smoke, air pollution, or workplace dust and chemicals. Symptoms of COPD include shortness of breath, wheezing, chest tightness, and coughing. There is no cure for COPD, but treatments can help manage symptoms and slow the progression of the disease","COPD stands for Chronic Obstructive Pulmonary Disease. It is a progressive lung disease that makes it difficult to breathe. COPD is often caused by smoking, but can also be caused by long-term exposure to other lung irritants such as air pollution, chemical fumes or dust. Symptoms of COPD include coughing, wheezing, shortness of breath, chest tightness, and excess mucus production."],
+    "context":[""]
+    },
+    {"tag":"exit",
+    "patterns":["exit"],
+    "responses":["Bye!","See you later!","Have a nice day!","Goodbye!","close the tab!"],
+    "context":[""]
+},
+{"tag":"wrong answer",
+"patterns":["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z","1","2","3","4","5","6","7","8","9","0","!","@","#","$","%","^","&","*","(",")","_","+","-","=","{","}","[","]","|",";",":","'","<",">","?","/","~","`","."],
+"responses":["Please give me more info","I don't understand. Please try again.","I don't understand. Please try again.","I don't understand. Please try again.","I don't understand. Please try again."],
+"context":[""]
+},
+{"tag":"how are you",
+"patterns":["how are you","how are you?","how are you doing","how are you doing?"],
+"responses":["As an AI language model, I do not have feelings like humans do, but I am functioning properly and ready to assist you with any questions or tasks you may have. How can I assist you today?"],
+"context":[""]
+
+}
+
+
+]
+}

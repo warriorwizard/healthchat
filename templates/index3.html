@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style1.css">
+    <title>Document</title>
+</head>
+<body>
+    <section class="msger">
+      <header class="msger-header">
+        <div class="msger-header-title">
+           Chatbot Health Care 
+        </div>
+      </header>
+  
+      <main class="msger-chat">
+        <div class="msg left-msg">
+          <div class="msg-img" style="background-image: url(https://cdn.shopify.com/s/files/1/1061/1924/products/27_large.png?v=1571606116)"></div>
+  
+          <div class="msg-bubble">
+            <div class="msg-info">
+              <div class="msg-info-name">Chatbot</div>
+              <div class="msg-info-time">12:45</div>
+            </div>
+  
+            <div class="msg-text">
+              Hi, welcome to Women's Health ! Go ahead and select the topic you want to ask about.👨‍⚕️ 😄 
+            </div>
+          </div>
+          
+        </div>
+  
+        <div class="msg right-msg">
+          <div class="msg-bubble">
+            <div class="msg-text">
+              <button class="menu-btn" onclick="showMenu()">Select a Topic</button>
+              <div class="menu" id="menu">
+                <button class="menu-option" onclick="askQuestion('diabetes')">Diabetes</button>
+                <button class="menu-option" onclick="askQuestion('cancer')">Cancer</button>
+                <button class="menu-option" onclick="askQuestion('periods')">Periods</button>
+              </div>
+            </div>
+          </div>
+        </div>
+  
+      </main>
+  
+      <form class="msger-inputarea">
+        <label for="file-input" class="custom-file-upload">+</label>
+        <input id="file-input" type="file" />
+        <input type="text" class="msger-input" id="textInput" placeholder="Enter your message...">
+        
+        <button type="submit" class="msger-send-btn">Send</button>
+      </form>
+    </section>
+  
+    <script src='https://use.fontawesome.com/releases/v5.0.13/js/all.js'></script>
+    <script>
+      const menu = document.getElementById("menu");
+  
+      function showMenu() {
+        menu.classList.toggle("show-menu");
+      }
+  
+      function askQuestion(topic) {
+        appendMessage("You", PERSON_IMG, "right", `Can you help me with ${topic} related questions?`);
+        // call a function to handle the user's question related to the selected topic
+      }
+  
+      // rest of the JavaScript code
+    </script>
+  </body>
+  
+</html>

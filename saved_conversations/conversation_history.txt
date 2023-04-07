@@ -1,0 +1,996 @@
+User: hi
+ChatBot: Hi there, how can I help?
+User: hi
+ChatBot: Good to see you again
+User: hello
+ChatBot: Hi there, how can I help?
+User: hello
+ChatBot: Hi there, how can I help?
+User: bye
+ChatBot: Have a nice day
+User: bye
+ChatBot: Have a nice day
+User: what you can do?
+ChatBot: Hello Ma'am, I can guide you for your menstural pain, Periods
+User: what you can do?
+ChatBot: 
+User: How you could help me?
+ChatBot: I can guide for pain only for women
+User: How you could help me?
+ChatBot: I can guide for pain only for women
+User: What you can do?
+ChatBot: Hello Ma'am, I can guide you for your menstural pain, Periods
+User: What you can do?
+ChatBot: 
+User: What you can do?
+ChatBot: 
+User: What you can do?
+ChatBot: 
+User: hi
+ChatBot: Hi there, how can I help?
+User: hi
+ChatBot: Good to see you again
+User: How you could help me?
+ChatBot: 
+User: How you could help me?
+ChatBot: Mood swings
+User: How you could help me?
+ChatBot: Mood swings
+User: How you could help me?
+ChatBot: 
+User: How you could help me?
+ChatBot: Hello Ma'am, I can guide you for your menstural pain, Periods
+User: How you could help me?
+ChatBot: Mood swings
+User: How you could help me?
+ChatBot: 
+User: How you could help me?
+ChatBot: I can guide for pain only for women
+User: How you could help me?
+ChatBot: Hello Ma'am, I can guide you for your menstural pain, Periods
+User: How you could help me?
+ChatBot: Hello Ma'am, I can guide you for your menstural pain, Periods
+User: How you could help me?
+ChatBot: I can guide for pain only for women
+User: How you could help me?
+ChatBot: 
+User: How you could help me?
+ChatBot: Mood swings
+User: How you could help me?
+ChatBot: Hello Ma'am, I can guide you for your menstural pain, Periods
+User: How you could help me?
+ChatBot: Mood swings
+User: How you could help me?
+ChatBot: I can guide for pain only for women
+User: How you could help me?
+ChatBot: Hello Ma'am, I can guide you for your menstural pain, Periods
+User: How you could help me?
+ChatBot: 
+User: How you could help me?
+ChatBot: Hello Ma'am, I can guide you for your menstural pain, Periods
+User: How you could help me?
+ChatBot: Mood swings
+User: How you could help me?
+ChatBot: Mood swings
+User: How you could help me?
+ChatBot: I can guide for pain only for women
+User: How you could help me?
+ChatBot: 
+User: How you could help me?
+ChatBot: Mood swings
+User: How you could help me?
+ChatBot: 
+User: How you could help me?
+ChatBot: Hello Ma'am, I can guide you for your menstural pain, Periods
+User: How you could help me?
+ChatBot: Hello Ma'am, I can guide you for your menstural pain, Periods
+User: How you could help me?
+ChatBot: I can guide for pain only for women
+User: How you could help me?
+ChatBot: 
+User: How you could help me?
+ChatBot: 
+User: How you could help me?
+ChatBot: I can guide for pain only for women
+User: How you could help me?
+ChatBot: Mood swings
+User: How you could help me?
+ChatBot: Mood swings
+User: How you could help me?
+ChatBot: Hello Ma'am, I can guide you for your menstural pain, Periods
+User: How you could help me?
+ChatBot: I can guide for pain only for women
+User: How you could help me?
+ChatBot: 
+User: How you could help me?
+ChatBot: I can guide for pain only for women
+User: How you could help me?
+ChatBot: 
+User: How you could help me?
+ChatBot: Hello Ma'am, I can guide you for your menstural pain, Periods
+User: How you could help me?
+ChatBot: I can guide for pain only for women
+User: How you could help me?
+ChatBot: Hello Ma'am, I can guide you for your menstural pain, Periods
+User: How you could help me?
+ChatBot: 
+User: How you could help me?
+ChatBot: I can guide for pain only for women
+User: How you could help me?
+ChatBot: I can guide for pain only for women
+User: How you could help me?
+ChatBot: 
+User: How you could help me?
+ChatBot: I can guide for pain only for women
+User: How you could help me?
+ChatBot: Mood swings
+User: How you could help me?
+ChatBot: Mood swings
+User: How you could help me?
+ChatBot: Hello Ma'am, I can guide you for your menstural pain, Periods
+User: How you could help me?
+ChatBot: Mood swings
+User: How you could help me?
+ChatBot: Mood swings
+User: How you could help me?
+ChatBot: 
+User: How you could help me?
+ChatBot: 
+User: How you could help me?
+ChatBot: I can guide for pain only for women
+User: How you could help me?
+ChatBot: I can guide for pain only for women
+User: How you could help me?
+ChatBot: Hello Ma'am, I can guide you for your menstural pain, Periods
+User: hi
+ChatBot: Good to see you again
+User: hi
+ChatBot: Hi there, how can I help?
+User: hello
+ChatBot: Hello Ma'am, thanks for asking
+User: hello
+ChatBot: Good to see you again
+User: how are you
+ChatBot: Good to see you again
+User: how are you
+ChatBot: Hello Ma'am, thanks for asking
+User: bye
+ChatBot: See you!
+User: bye
+ChatBot: Have a nice day
+User: how are you
+ChatBot: Good to see you again
+User: how are you
+ChatBot: Hello Ma'am, thanks for asking
+User: hello
+ChatBot: Hi there, how can I help?
+User: hello
+ChatBot: Hello Ma'am, thanks for asking
+User: how are 
+ChatBot: Hi there, how can I help?
+User: how are 
+ChatBot: Good to see you again
+User: tata
+ChatBot: Sorry, I didn't understand that.
+User: tata
+ChatBot: Sorry, I didn't understand that.
+User: byt
+ChatBot: Sorry, I didn't understand that.
+User: byt
+ChatBot: Sorry, I didn't understand that.
+User: ok
+ChatBot: Sorry, I didn't understand that.
+User: ok
+ChatBot: Sorry, I didn't understand that.
+User: pain
+ChatBot: Period pain is pain that occurs just before or during a menstrual period.Every person’s experience of period pain is different, but it can cause: /n a cramping sensation in the abdomen /n burning pain in the abdomen pain that may feel like trapped gas pain that radiates to the back, hips, or legs.Some peopleTrusted Source also experience digestive symptoms alongside period pain, such as: /n bloating /n diarrhea /n constipation /n nausea /n vomiting
+User: pain
+ChatBot: Other symptoms associated with dysmenorrhea include irritability and headaches. Period pain and cramping can vary from mild to intense
+User: women pain
+ChatBot: Other symptoms associated with dysmenorrhea include irritability and headaches. Period pain and cramping can vary from mild to intense
+User: women pain
+ChatBot: Other symptoms associated with dysmenorrhea include irritability and headaches. Period pain and cramping can vary from mild to intense
+User: in pain
+ChatBot: Thank you..................There are some Menstrual Diet.Diet plan for healthy and comfortable periods must include:1. Whole grains like whole wheat, oats and brown rice are a good choice.2. Low-fat milk, preferably, dahi, lassi are a must. Indigestion is a problem so taking milk as dahi will help by adding probiotics and the calcium will help with the cramps. Lassi will add to hydration.3. Healthy proteins from legumes, nuts, seeds, especially, flax and chia and salmon provide phytonutrients.4. Lots of vegetables, especially the green leafy ones add fiber and provide iron to make up for blood los,4. Lots of vegetables, especially the green leafy ones add fiber and provide iron to make up for blood loss.6. Healthy fats in limited quantities are essential. Avoiding fried foods to prevent aggravating indigestion
+User: in pain
+ChatBot: Thank you..................There are some Menstrual Diet.Diet plan for healthy and comfortable periods must include:1. Whole grains like whole wheat, oats and brown rice are a good choice.2. Low-fat milk, preferably, dahi, lassi are a must. Indigestion is a problem so taking milk as dahi will help by adding probiotics and the calcium will help with the cramps. Lassi will add to hydration.3. Healthy proteins from legumes, nuts, seeds, especially, flax and chia and salmon provide phytonutrients.4. Lots of vegetables, especially the green leafy ones add fiber and provide iron to make up for blood los,4. Lots of vegetables, especially the green leafy ones add fiber and provide iron to make up for blood loss.6. Healthy fats in limited quantities are essential. Avoiding fried foods to prevent aggravating indigestion
+User: ok
+ChatBot: Sorry, I didn't understand that.
+User: ok
+ChatBot: Sorry, I didn't understand that.
+User: bye
+ChatBot: Have a nice day
+User: bye
+ChatBot: See you!
+User: exit
+ChatBot: Sorry, I didn't understand that.
+User: exit
+ChatBot: Sorry, I didn't understand that.
+User: hi
+ChatBot: Good to see you again
+User: hi
+ChatBot: Good to see you again
+User: hello
+ChatBot: Hello Ma'am, thanks for asking
+User: hello
+ChatBot: Hi there, how can I help?
+User: how are you
+ChatBot: Hi there, how can I help?
+User: how are you
+ChatBot: Good to see you again
+User: exit
+ChatBot: Sorry, I didn't understand that.
+User: exit
+ChatBot: Sorry, I didn't understand that.
+User: hi
+ChatBot: Good to see you again
+User: hi
+ChatBot: Good to see you again
+User: hello
+ChatBot: Hi there, how can I help?
+User: hello
+ChatBot: Good to see you again
+User: hello
+ChatBot: Hello Ma'am, thanks for asking
+User: hello
+ChatBot: Hi there, how can I help?
+User: hello
+ChatBot: Hi there, how can I help?
+User: hello
+ChatBot: Good to see you again
+User: hello
+ChatBot: Hi there, how can I help?
+User: hello
+ChatBot: Hello Ma'am, thanks for asking
+User: hello
+ChatBot: Hi there, how can I help?
+User: hello
+ChatBot: Good to see you again
+User: hello
+ChatBot: Hello Ma'am, thanks for asking
+User: hello
+ChatBot: Hello Ma'am, thanks for asking
+User: ij
+ChatBot: Sorry, I didn't understand that.
+User: ij
+ChatBot: Sorry, I didn't understand that.
+User: ok
+ChatBot: Sorry, I didn't understand that.
+User: ok
+ChatBot: Sorry, I didn't understand that.
+User: ok
+ChatBot: Sorry, I didn't understand that.
+User: ok
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: hi
+ChatBot: Good to see you again
+User: hi
+ChatBot: Hello Ma'am, thanks for asking
+User: hi
+ChatBot: Hi there, how can I help?
+User: hi
+ChatBot: Good to see you again
+User: hello
+ChatBot: Hello Ma'am, thanks for asking
+User: hello
+ChatBot: Hi there, how can I help?
+User: hello
+ChatBot: Hello Ma'am, thanks for asking
+User: hello
+ChatBot: Hello Ma'am, thanks for asking
+User: hello
+ChatBot: Hello Ma'am, thanks for asking
+User: hello
+ChatBot: Hello Ma'am, thanks for asking
+User: hi
+ChatBot: Good to see you again
+User: hi
+ChatBot: Good to see you again
+User: hi
+ChatBot: Hello Ma'am, thanks for asking
+User: hi
+ChatBot: Good to see you again
+User: he
+ChatBot: Sorry, I didn't understand that.
+User: he
+ChatBot: Sorry, I didn't understand that.
+User: e
+ChatBot: Sorry, I didn't understand that.
+User: e
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: ewf
+ChatBot: Sorry, I didn't understand that.
+User: ewf
+ChatBot: Sorry, I didn't understand that.
+User: w
+ChatBot: Sorry, I didn't understand that.
+User: w
+ChatBot: Sorry, I didn't understand that.
+User: df
+ChatBot: Sorry, I didn't understand that.
+User: df
+ChatBot: Sorry, I didn't understand that.
+User: s
+ChatBot: Sorry, I didn't understand that.
+User: s
+ChatBot: Sorry, I didn't understand that.
+User: d
+ChatBot: Sorry, I didn't understand that.
+User: d
+ChatBot: Sorry, I didn't understand that.
+User: s
+ChatBot: Sorry, I didn't understand that.
+User: s
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: s
+ChatBot: Sorry, I didn't understand that.
+User: s
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: ds
+ChatBot: Sorry, I didn't understand that.
+User: ds
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: f
+ChatBot: Sorry, I didn't understand that.
+User: d
+ChatBot: Sorry, I didn't understand that.
+User: d
+ChatBot: Sorry, I didn't understand that.
+User: fd
+ChatBot: Sorry, I didn't understand that.
+User: fd
+ChatBot: Sorry, I didn't understand that.
+User: hi
+ChatBot: Hello Ma'am, thanks for asking
+User: hi
+ChatBot: Good to see you again
+User: how are you
+ChatBot: Hi there, how can I help?
+User: how are you
+ChatBot: Hello Ma'am, thanks for asking
+User: namste
+ChatBot: Sorry, I didn't understand that.
+User: namste
+ChatBot: Sorry, I didn't understand that.
+User: namste
+ChatBot: Sorry, I didn't understand that.
+User: namste
+ChatBot: Sorry, I didn't understand that.
+User: kya hal hai?
+ChatBot: Sorry, I didn't understand that.
+User: kya hal hai?
+ChatBot: Sorry, I didn't understand that.
+User: kaise ho?
+ChatBot: Sorry, I didn't understand that.
+User: kaise ho?
+ChatBot: Sorry, I didn't understand that.
+User: mai badhioya
+ChatBot: Sorry, I didn't understand that.
+User: mai badhioya
+ChatBot: Sorry, I didn't understand that.
+User: hello
+ChatBot: Hi there, how can I help?
+User: hello
+ChatBot: Hi there, how can I help?
+User: hi
+ChatBot: Hello Ma'am, thanks for asking
+User: hi
+ChatBot: Hi there, how can I help?
+User: hi
+ChatBot: Good to see you again
+User: hi
+ChatBot: Hello Ma'am, thanks for asking
+User: kya hal hai
+ChatBot: I am a chatbot developed by Anand Gupta to help you with your queries related to menstruation
+User: kya hal hai
+ChatBot: I am a chatbot developed by Anand Gupta to help you with your queries related to menstruation
+User: who are you
+ChatBot: I am a chatbot developed by Anand Gupta to help you with your queries related to menstruation
+User: who are you
+ChatBot: I am a chatbot developed by Anand Gupta to help you with your queries related to menstruation
+User: exist
+ChatBot: Good to see you again
+User: exist
+ChatBot: Hi there, how can I help?
+User: exit
+ChatBot: Have a nice day!
+User: exit
+ChatBot: Have a nice day!
+User: COPD
+ChatBot: COPD stands for chronic obstructive pulmonary disease, which is a chronic respiratory condition that makes it difficult to breathe. It is usually caused by long-term exposure to irritants, such as cigarette smoke, air pollution, or workplace dust and chemicals. Symptoms of COPD include shortness of breath, wheezing, chest tightness, and coughing. There is no cure for COPD, but treatments can help manage symptoms and slow the progression of the disease
+User: COPD
+ChatBot: COPD stands for Chronic Obstructive Pulmonary Disease. It is a progressive lung disease that makes it difficult to breathe. COPD is often caused by smoking, but can also be caused by long-term exposure to other lung irritants such as air pollution, chemical fumes or dust. Symptoms of COPD include coughing, wheezing, shortness of breath, chest tightness, and excess mucus production.
+User: copd
+ChatBot: COPD stands for Chronic Obstructive Pulmonary Disease. It is a progressive lung disease that makes it difficult to breathe. COPD is often caused by smoking, but can also be caused by long-term exposure to other lung irritants such as air pollution, chemical fumes or dust. Symptoms of COPD include coughing, wheezing, shortness of breath, chest tightness, and excess mucus production.
+User: copd
+ChatBot: COPD stands for chronic obstructive pulmonary disease, which is a chronic respiratory condition that makes it difficult to breathe. It is usually caused by long-term exposure to irritants, such as cigarette smoke, air pollution, or workplace dust and chemicals. Symptoms of COPD include shortness of breath, wheezing, chest tightness, and coughing. There is no cure for COPD, but treatments can help manage symptoms and slow the progression of the disease
+User: hi
+ChatBot: Hi there, how can I help?
+User: hi
+ChatBot: Hello Ma'am, thanks for asking
+User: hello
+ChatBot: Hello Ma'am, thanks for asking
+User: hello
+ChatBot: Hello Ma'am, thanks for asking
+User: How you could help me
+ChatBot: Mood swings
+User: How you could help me
+ChatBot: Mood swings
+User: f
+ChatBot: Hi there, how can I help?
+User: f
+ChatBot: Good to see you again
+User: f
+ChatBot: Hi there, how can I help?
+User: f
+ChatBot: Hi there, how can I help?
+User: f
+ChatBot: Hi there, how can I help?
+User: f
+ChatBot: Hi there, how can I help?
+User: f
+ChatBot: Hi there, how can I help?
+User: f
+ChatBot: Hi there, how can I help?
+User: f
+ChatBot: Hello Ma'am, thanks for asking
+User: f
+ChatBot: Hi there, how can I help?
+User: f
+ChatBot: Good to see you again
+User: f
+ChatBot: Hello Ma'am, thanks for asking
+User: f
+ChatBot: Good to see you again
+User: f
+ChatBot: Hello Ma'am, thanks for asking
+User: f
+ChatBot: Hello Ma'am, thanks for asking
+User: f
+ChatBot: Hi there, how can I help?
+User: f
+ChatBot: Hi there, how can I help?
+User: f
+ChatBot: Hello Ma'am, thanks for asking
+User: f
+ChatBot: Hello Ma'am, thanks for asking
+User: f
+ChatBot: Hi there, how can I help?
+User: f
+ChatBot: Hello Ma'am, thanks for asking
+User: f
+ChatBot: Good to see you again
+User: f
+ChatBot: Hi there, how can I help?
+User: f
+ChatBot: Hello Ma'am, thanks for asking
+User: ff
+ChatBot: Hello Ma'am, thanks for asking
+User: ff
+ChatBot: Hello Ma'am, thanks for asking
+User: fg
+ChatBot: Good to see you again
+User: fg
+ChatBot: Hello Ma'am, thanks for asking
+User: gd
+ChatBot: Hello Ma'am, thanks for asking
+User: gd
+ChatBot: Hi there, how can I help?
+User: f
+ChatBot: Hi there, how can I help?
+User: f
+ChatBot: Hi there, how can I help?
+User: gf
+ChatBot: Hi there, how can I help?
+User: gf
+ChatBot: Hello Ma'am, thanks for asking
+User: fg
+ChatBot: Good to see you again
+User: fg
+ChatBot: Hello Ma'am, thanks for asking
+User: g
+ChatBot: Good to see you again
+User: g
+ChatBot: Good to see you again
+User: g
+ChatBot: Hi there, how can I help?
+User: g
+ChatBot: Good to see you again
+User: g
+ChatBot: Hello Ma'am, thanks for asking
+User: g
+ChatBot: Good to see you again
+User: fg
+ChatBot: Hello Ma'am, thanks for asking
+User: fg
+ChatBot: Good to see you again
+User: g
+ChatBot: Good to see you again
+User: g
+ChatBot: Hello Ma'am, thanks for asking
+User: fg
+ChatBot: Good to see you again
+User: fg
+ChatBot: Hi there, how can I help?
+User: fg
+ChatBot: Hello Ma'am, thanks for asking
+User: fg
+ChatBot: Hello Ma'am, thanks for asking
+User: g
+ChatBot: Good to see you again
+User: g
+ChatBot: Hi there, how can I help?
+User: f
+ChatBot: Hello Ma'am, thanks for asking
+User: f
+ChatBot: Hi there, how can I help?
+User: gf
+ChatBot: Hi there, how can I help?
+User: gf
+ChatBot: Hello Ma'am, thanks for asking
+User: g
+ChatBot: Good to see you again
+User: g
+ChatBot: Hello Ma'am, thanks for asking
+User: f
+ChatBot: Hi there, how can I help?
+User: f
+ChatBot: Good to see you again
+User: hello
+ChatBot: Hello Ma'am, thanks for asking
+User: hello
+ChatBot: Good to see you again
+User: how are you
+ChatBot: Hi there, how can I help?
+User: how are you
+ChatBot: Hello Ma'am, thanks for asking
+User: who are you
+ChatBot: I am a chatbot developed by Anand Gupta to help you with your queries related to menstruation
+User: who are you
+ChatBot: I am a chatbot developed by Anand Gupta to help you with your queries related to menstruation
+User: hi
+ChatBot: Hello Ma'am, thanks for asking
+User: hi
+ChatBot: Good to see you again
+User: who are you
+ChatBot: I am a chatbot developed by Anand Gupta to help you with your queries related to menstruation
+User: who are you
+ChatBot: I am a deeplearning model developed by Anand Gupta to help you with your queries related to menstruation. 
+User: from where are you
+ChatBot: I am a language model created by Anand Gupta. I don't have a physical location as I exist entirely in the digital world
+User: from where are you
+ChatBot: I am a language model created by Anand Gupta. I don't have a physical location as I exist entirely in the digital world
+User: ok
+ChatBot: Hello Ma'am, thanks for asking
+User: ok
+ChatBot: Hello Ma'am, thanks for asking
+User: What can make period cramps worse?
+ChatBot: Several factors and underlying conditions may increase a person’s risk of experiencing severe menstrual cramps, including: /n a family history of severe cramps /n being under 20 years of age /n having obesity /n endometriosi .n fibroids /n pelvic inflammatory disease /n adenomyosis /n low intake of omega-3 /n smoking /n stress
+User: What can make period cramps worse?
+ChatBot: Several factors and underlying conditions may increase a person’s risk of experiencing severe menstrual cramps, including: /n a family history of severe cramps /n being under 20 years of age /n having obesity /n endometriosi .n fibroids /n pelvic inflammatory disease /n adenomyosis /n low intake of omega-3 /n smoking /n stress
+User: flu symptoms
+ChatBot: Symptoms of the flu include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue
+User: flu symptoms
+ChatBot: Symptoms of the flu include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue
+User: diabetes
+ChatBot: Diabetes is a disease in which your blood glucose, or blood sugar, levels are too high. Glucose comes from the foods you eat. Insulin is a hormone that helps the glucose get into your cells to give them energy. With diabetes, your body either doesn't make enough insulin or can't use its own insulin as well as it should. This causes too much glucose to build up in your blood.
+User: diabetes
+ChatBot: Diabetes is a condition in which your body is unable to properly regulate blood sugar levels, leading to high blood sugar. This can cause a number of symptoms, including increased thirst and urination, fatigue, and blurred vision. If left untreated, diabetes can lead to serious complications, including heart disease, stroke, and kidney failure.
+User: hi
+ChatBot: Hello Ma'am, thanks for asking
+User: hi
+ChatBot: Hi there, how can I help?
+User: how are you
+ChatBot: Hello Ma'am, thanks for asking
+User: how are you
+ChatBot: Good to see you again
+User: bye
+ChatBot: See you!
+User: bye
+ChatBot: Have a nice day
+User: tum kaon ho
+ChatBot: I am a chatbot developed by Anand Gupta to help you with your queries related to menstruation
+User: tum kaon ho
+ChatBot: I am a chatbot developed by Anand Gupta to help you with your queries related to menstruation
+User: shut you mout
+ChatBot: Have a nice day
+User: shut you mout
+ChatBot: See you!
+User: hi
+ChatBot: Hi there, how can I help?
+User: hi
+ChatBot: Hello Ma'am, thanks for asking
+User: how are you
+ChatBot: Hi there, how can I help?
+User: how are you
+ChatBot: Hi there, how can I help?
+User: hello
+ChatBot: Hello Ma'am, thanks for asking
+User: hello
+ChatBot: Hi there, how can I help?
+User: hello
+ChatBot: Good to see you again
+User: hello
+ChatBot: Hi there, how can I help?
+User: how are you
+ChatBot: Hello Ma'am, thanks for asking
+User: how are you
+ChatBot: Good to see you again
+User: pain
+ChatBot: Some peopleTrusted Source also experience digestive symptoms alongside period pain, such as: /n bloating /n diarrhea /n constipation /n nausea /n vomiting
+User: pain
+ChatBot: Period pain is pain that occurs just before or during a menstrual period.Every person’s experience of period pain is different, but it can cause: /n a cramping sensation in the abdomen /n burning pain in the abdomen pain that may feel like trapped gas pain that radiates to the back, hips, or legs.Some peopleTrusted Source also experience digestive symptoms alongside period pain, such as: /n bloating /n diarrhea /n constipation /n nausea /n vomiting
+User: what is cancer
+ChatBot: As an artificial intelligence language model, I don't physically exist, so I don't live anywhere. I exist solely in computer servers and can be accessed through various platforms and interfaces, such as chatbots, voice assistants, and text editors.
+User: what is cancer
+ChatBot: As an artificial intelligence language model, I don't physically exist, so I don't live anywhere. I exist solely in computer servers and can be accessed through various platforms and interfaces, such as chatbots, voice assistants, and text editors.
+User: define flu
+ChatBot: The flu is a contagious respiratory illness caused by influenza viruses that can cause mild to severe illness, and at times can lead to death. The best way to prevent the flu is by getting a flu vaccine each year.
+User: define flu
+ChatBot: The flu is a contagious respiratory illness caused by influenza viruses that can cause mild to severe illness, and at times can lead to death. The best way to prevent the flu is by getting a flu vaccine each year.
+User: what is diabetes
+ChatBot: Diabetes is a disease in which your blood glucose, or blood sugar, levels are too high. Glucose comes from the foods you eat. Insulin is a hormone that helps the glucose get into your cells to give them energy. With diabetes, your body either doesn't make enough insulin or can't use its own insulin as well as it should. This causes too much glucose to build up in your blood.
+User: what is diabetes
+ChatBot: Diabetes is a disease in which your blood glucose, or blood sugar, levels are too high. Glucose comes from the foods you eat. Insulin is a hormone that helps the glucose get into your cells to give them energy. With diabetes, your body either doesn't make enough insulin or can't use its own insulin as well as it should. This causes too much glucose to build up in your blood.
+User: symptoms diabetes
+ChatBot: Symptoms of diabetes include increased thirst, frequent urination, fatigue, weight loss, and blurred vision. If left untreated, diabetes can lead to serious complications, including heart disease, stroke, and kidney failure.
+User: symptoms diabetes
+ChatBot: Symptoms of diabetes include increased thirst, frequent urination, fatigue, weight loss, and blurred vision. If left untreated, diabetes can lead to serious complications, including heart disease, stroke, and kidney failure.
+User: asthma kya hai
+ChatBot: 
+User: asthma kya hai
+ChatBot: 
+User: COPD
+ChatBot: COPD stands for chronic obstructive pulmonary disease, which is a chronic respiratory condition that makes it difficult to breathe. It is usually caused by long-term exposure to irritants, such as cigarette smoke, air pollution, or workplace dust and chemicals. Symptoms of COPD include shortness of breath, wheezing, chest tightness, and coughing. There is no cure for COPD, but treatments can help manage symptoms and slow the progression of the disease
+User: COPD
+ChatBot: COPD stands for Chronic Obstructive Pulmonary Disease. It is a progressive lung disease that makes it difficult to breathe. COPD is often caused by smoking, but can also be caused by long-term exposure to other lung irritants such as air pollution, chemical fumes or dust. Symptoms of COPD include coughing, wheezing, shortness of breath, chest tightness, and excess mucus production.
+User: defein asthma
+ChatBot: 
+User: defein asthma
+ChatBot: 
+User: define asthma
+ChatBot: 
+User: define asthma
+ChatBot: 
+User: ok
+ChatBot: Good to see you again
+User: ok
+ChatBot: Good to see you again
+User: exits
+ChatBot: See you later!
+User: exits
+ChatBot: close the tab!
+User: diabetes
+ChatBot: Diabetes is a disease in which your blood glucose, or blood sugar, levels are too high. Glucose comes from the foods you eat. Insulin is a hormone that helps the glucose get into your cells to give them energy. With diabetes, your body either doesn't make enough insulin or can't use its own insulin as well as it should. This causes too much glucose to build up in your blood.
+User: diabetes
+ChatBot: Diabetes is a condition in which your body is unable to properly regulate blood sugar levels, leading to high blood sugar. This can cause a number of symptoms, including increased thirst and urination, fatigue, and blurred vision. If left untreated, diabetes can lead to serious complications, including heart disease, stroke, and kidney failure.
+User: copd
+ChatBot: COPD stands for chronic obstructive pulmonary disease, which is a chronic respiratory condition that makes it difficult to breathe. It is usually caused by long-term exposure to irritants, such as cigarette smoke, air pollution, or workplace dust and chemicals. Symptoms of COPD include shortness of breath, wheezing, chest tightness, and coughing. There is no cure for COPD, but treatments can help manage symptoms and slow the progression of the disease
+User: copd
+ChatBot: COPD stands for chronic obstructive pulmonary disease, which is a chronic respiratory condition that makes it difficult to breathe. It is usually caused by long-term exposure to irritants, such as cigarette smoke, air pollution, or workplace dust and chemicals. Symptoms of COPD include shortness of breath, wheezing, chest tightness, and coughing. There is no cure for COPD, but treatments can help manage symptoms and slow the progression of the disease
+User: 9010
+ChatBot: Sorry, I didn't understand that.
+User: 9010
+ChatBot: Sorry, I didn't understand that.
+User: 9010
+ChatBot: Sorry, I didn't understand that.
+User: 9010
+ChatBot: Sorry, I didn't understand that.
+User: 9010
+ChatBot: Sorry, I didn't understand that.
+User: 9010
+ChatBot: Sorry, I didn't understand that.
+User: hello
+ChatBot: Good to see you again
+User: hello
+ChatBot: Hi there, how can I help?
+User: a
+ChatBot: I don't understand. Please try again.
+User: a
+ChatBot: Please give me more info
+User: a
+ChatBot: I don't understand. Please try again.
+User: a
+ChatBot: I don't understand. Please try again.
+User: f
+ChatBot: I don't understand. Please try again.
+User: f
+ChatBot: I don't understand. Please try again.
+User: fg
+ChatBot: Please give me more info
+User: fg
+ChatBot: Please give me more info
+User: 3
+ChatBot: Please give me more info
+User: 3
+ChatBot: I don't understand. Please try again.
+User: 3
+ChatBot: I don't understand. Please try again.
+User: 3
+ChatBot: I don't understand. Please try again.
+User: pain
+ChatBot: Some peopleTrusted Source also experience digestive symptoms alongside period pain, such as: /n bloating /n diarrhea /n constipation /n nausea /n vomiting
+User: pain
+ChatBot: Period pain is pain that occurs just before or during a menstrual period.Every person’s experience of period pain is different, but it can cause: /n a cramping sensation in the abdomen /n burning pain in the abdomen pain that may feel like trapped gas pain that radiates to the back, hips, or legs.Some peopleTrusted Source also experience digestive symptoms alongside period pain, such as: /n bloating /n diarrhea /n constipation /n nausea /n vomiting
+User: can you define diabetes
+ChatBot: Diabetes is a disease in which your blood glucose, or blood sugar, levels are too high. Glucose comes from the foods you eat. Insulin is a hormone that helps the glucose get into your cells to give them energy. With diabetes, your body either doesn't make enough insulin or can't use its own insulin as well as it should. This causes too much glucose to build up in your blood.
+User: can you define diabetes
+ChatBot: Diabetes is a disease in which your blood glucose, or blood sugar, levels are too high. Glucose comes from the foods you eat. Insulin is a hormone that helps the glucose get into your cells to give them energy. With diabetes, your body either doesn't make enough insulin or can't use its own insulin as well as it should. This causes too much glucose to build up in your blood.
+User: ok exit
+ChatBot: Goodbye!
+User: ok exit
+ChatBot: See you later!
+User: byt
+ChatBot: I don't understand. Please try again.
+User: byt
+ChatBot: I don't understand. Please try again.
+User: bye
+ChatBot: See you!
+User: bye
+ChatBot: Have a nice day
+User: ok
+ChatBot: I don't understand. Please try again.
+User: ok
+ChatBot: Please give me more info
+User: how are you
+ChatBot: As an AI language model, I do not have feelings like humans do, but I am functioning properly and ready to assist you with any questions or tasks you may have. How can I assist you today?
+User: how are you
+ChatBot: As an AI language model, I do not have feelings like humans do, but I am functioning properly and ready to assist you with any questions or tasks you may have. How can I assist you today?
+User: hi
+ChatBot: Hello Ma'am, thanks for asking
+User: hi
+ChatBot: Hi there, how can I help?
+User: hwllo
+ChatBot: Please give me more info
+User: hwllo
+ChatBot: I don't understand. Please try again.
+User: how are you
+ChatBot: As an AI language model, I do not have feelings like humans do, but I am functioning properly and ready to assist you with any questions or tasks you may have. How can I assist you today?
+User: how are you
+ChatBot: As an AI language model, I do not have feelings like humans do, but I am functioning properly and ready to assist you with any questions or tasks you may have. How can I assist you today?
+User: hu
+ChatBot: I don't understand. Please try again.
+User: hu
+ChatBot: I don't understand. Please try again.
+User: hi
+ChatBot: Hi there, how can I help?
+User: hi
+ChatBot: Good to see you again
+User: hi
+ChatBot: Hi there, how can I help?
+User: hi
+ChatBot: Hello Ma'am, thanks for asking
+User: h
+ChatBot: I don't understand. Please try again.
+User: h
+ChatBot: I don't understand. Please try again.
+User: hi
+ChatBot: Hello Ma'am, thanks for asking
+User: hi
+ChatBot: Good to see you again
+User: hi
+ChatBot: Hi there, how can I help?
+User: hi
+ChatBot: Good to see you again
+User: hi
+ChatBot: Hi there, how can I help?
+User: hi
+ChatBot: Hi there, how can I help?
+User: f
+ChatBot: Please give me more info
+User: f
+ChatBot: Please give me more info
+User: f
+ChatBot: I don't understand. Please try again.
+User: f
+ChatBot: I don't understand. Please try again.
+User: f
+ChatBot: I don't understand. Please try again.
+User: f
+ChatBot: I don't understand. Please try again.
+User: f
+ChatBot: Please give me more info
+User: f
+ChatBot: Please give me more info
+User: f
+ChatBot: I don't understand. Please try again.
+User: f
+ChatBot: I don't understand. Please try again.
+User: f
+ChatBot: Please give me more info
+User: f
+ChatBot: I don't understand. Please try again.
+User: f
+ChatBot: I don't understand. Please try again.
+User: f
+ChatBot: Please give me more info
+User: f
+ChatBot: I don't understand. Please try again.
+User: f
+ChatBot: I don't understand. Please try again.
+User: f
+ChatBot: I don't understand. Please try again.
+User: f
+ChatBot: I don't understand. Please try again.
+User: f
+ChatBot: Please give me more info
+User: f
+ChatBot: I don't understand. Please try again.
+User: f
+ChatBot: I don't understand. Please try again.
+User: f
+ChatBot: I don't understand. Please try again.
+User: f
+ChatBot: I don't understand. Please try again.
+User: f
+ChatBot: Please give me more info
+User: f
+ChatBot: I don't understand. Please try again.
+User: f
+ChatBot: I don't understand. Please try again.
+User: f
+ChatBot: I don't understand. Please try again.
+User: f
+ChatBot: I don't understand. Please try again.
+User: f
+ChatBot: Please give me more info
+User: f
+ChatBot: I don't understand. Please try again.
+User: f
+ChatBot: I don't understand. Please try again.
+User: f
+ChatBot: I don't understand. Please try again.
+User: hi
+ChatBot: Hi there, how can I help?
+User: hi
+ChatBot: Hello Ma'am, thanks for asking
+User: hi
+ChatBot: Hi there, how can I help?
+User: hi
+ChatBot: Hello Ma'am, thanks for asking
+User: hi
+ChatBot: Hello Ma'am, thanks for asking
+User: hi
+ChatBot: Good to see you again
+User: ok
+ChatBot: I don't understand. Please try again.
+User: ok
+ChatBot: I don't understand. Please try again.
+User: hi
+ChatBot: Hello Ma'am, thanks for asking
+User: hi
+ChatBot: Hello Ma'am, thanks for asking
+User: hi
+ChatBot: Hi there, how can I help?
+User: hi
+ChatBot: Hi there, how can I help?
+User: hi
+ChatBot: Good to see you again
+User: hi
+ChatBot: Hi there, how can I help?
+User: how arre you
+ChatBot: As an AI language model, I do not have feelings like humans do, but I am functioning properly and ready to assist you with any questions or tasks you may have. How can I assist you today?
+User: how arre you
+ChatBot: As an AI language model, I do not have feelings like humans do, but I am functioning properly and ready to assist you with any questions or tasks you may have. How can I assist you today?
+User: how are you
+ChatBot: As an AI language model, I do not have feelings like humans do, but I am functioning properly and ready to assist you with any questions or tasks you may have. How can I assist you today?
+User: how are you
+ChatBot: As an AI language model, I do not have feelings like humans do, but I am functioning properly and ready to assist you with any questions or tasks you may have. How can I assist you today?
+User: hi
+ChatBot: Hello Ma'am, thanks for asking
+User: hi
+ChatBot: Good to see you again
+User: hi
+ChatBot: Good to see you again
+User: hi
+ChatBot: Hello Ma'am, thanks for asking
+User: hi
+ChatBot: Hello Ma'am, thanks for asking
+User: hi
+ChatBot: Hi there, how can I help?
+User: hi
+ChatBot: Hi there, how can I help?
+User: hi
+ChatBot: Hi there, how can I help?
+User: how are you
+ChatBot: As an AI language model, I do not have feelings like humans do, but I am functioning properly and ready to assist you with any questions or tasks you may have. How can I assist you today?
+User: how are you
+ChatBot: As an AI language model, I do not have feelings like humans do, but I am functioning properly and ready to assist you with any questions or tasks you may have. How can I assist you today?
+User: a
+ChatBot: I don't understand. Please try again.
+User: a
+ChatBot: I don't understand. Please try again.
+User: @
+ChatBot: Please give me more info
+User: @
+ChatBot: I don't understand. Please try again.
+User: 1
+ChatBot: I don't understand. Please try again.
+User: 1
+ChatBot: I don't understand. Please try again.
+User: What is cancer
+ChatBot: I don't understand. Please try again.
+User: What is cancer
+ChatBot: I don't understand. Please try again.
+User: ok
+ChatBot: I don't understand. Please try again.
+User: ok
+ChatBot: I don't understand. Please try again.
+User: bye
+ChatBot: Have a nice day
+User: bye
+ChatBot: See you!
+User: How are you
+ChatBot: As an AI language model, I do not have feelings like humans do, but I am functioning properly and ready to assist you with any questions or tasks you may have. How can I assist you today?
+User: How are you
+ChatBot: As an AI language model, I do not have feelings like humans do, but I am functioning properly and ready to assist you with any questions or tasks you may have. How can I assist you today?
